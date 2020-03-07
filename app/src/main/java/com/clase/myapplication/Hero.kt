@@ -228,7 +228,6 @@ data class Hero(val name: String, val notes: String? = null, val thumbnail: Stri
 	"death2": null,
 	"death3": null,
 	"death4": null,
-	"death5": null,
 	"full/reserve avengers intro": "sep-63",
 	"gender": "male",
 	"honorary": "full",
